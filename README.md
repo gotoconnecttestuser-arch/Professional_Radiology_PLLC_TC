@@ -5,7 +5,13 @@ Effective Date: October 16, 2026
 
 These SMS Terms and Conditions govern the use of text messaging services provided by Professional Radiology PLLC (“Professional Radiology,” “we,” “our,” or “us”).
 
-By opting in to receive SMS messages from Professional Radiology PLLC, you agree to these Terms and Conditions.
+By providing your mobile number and opting in to receive SMS messages from Professional Radiology PLLC, you consent to receive customer care messages.
+
+Message frequency: Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates: Message and data rates may apply.
+Opt-out: Reply STOP to cancel at any time.
+Help: Reply HELP for assistance.
+Privacy Policy: Please review our Privacy Policy at https://github.com/gotoconnecttestuser-arch/Professional_Radiology_PLLC_PP
 
 1. Program Description
 
